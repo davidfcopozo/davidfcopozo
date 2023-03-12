@@ -5,15 +5,15 @@
 
 - 📚 Wanting to learn **TypeScript, Jest, SQL, Docker, Kubernetes**
 
-- 🤝 I’m looking to collaborate to **Open Source Projects**
+- 🤝 I’m looking for my first tech job oportunity as a **Frontend Developer**
 
 - 💻 All of my projects are available at [https://www.davidfrancisco.dev/](https://www.davidfrancisco.dev/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJs & NextJs**
 
-- 📫 How to reach me **davidfco.pozo@hotmail.com**
+- 📫 How to reach me **davidfco.pozo@gmail.com**
 
-- 📄 My [Resume](https://drive.google.com/file/d/1jJQldyKmHv-Q_qEYdLIBTemv8HatGt-q/view?usp=share_link)
+- 📄 My [Resume]([https://drive.google.com/file/d/1jJQldyKmHv-Q_qEYdLIBTemv8HatGt-q/view?usp=share_link](https://drive.google.com/file/d/1jazW2zJLNZa-Um9KPVL5ZhknaNy7tRAf/view?usp=sharing))
 
 
 ## Connect with me:
