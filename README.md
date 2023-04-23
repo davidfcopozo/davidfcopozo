@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **davidfco.pozo@gmail.com**
 
-- 📄 My [Resume]([https://drive.google.com/file/d/1jazW2zJLNZa-Um9KPVL5ZhknaNy7tRAf/view?usp=sharing](https://drive.google.com/file/d/1oenQ4LyrL9d-6XLWrRT-oMaG2cB5AzeF/view?usp=sharing))
+- 📄 My [Resume]([https://drive.google.com/file/d/1jazW2zJLNZa-Um9KPVL5ZhknaNy7tRAf/view?usp=sharing](https://drive.google.com/file/d/1oenQ4LyrL9d-6XLWrRT-oMaG2cB5AzeF/view?usp=sharing)
 
 
 ## Connect with me:
