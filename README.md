@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm David Francisco</h1>
 <h3 align="center">Frontend Developer!</h3>
 
-- 👨‍💻 I’m currently learning **NodeJS, Express, MongoDB, Mongoose**
+- 👨‍💻 I’m currently learning **TypeScript, SQL, NodeJS, Express, React Native**
 
-- 📚 Wanting to learn **TypeScript, Jest, SQL, Docker, Kubernetes**
+- 📚 Wanting to learn **Java, Jest, Docker, Kubernetes**
 
 - 🤝 I’m looking for my first tech job oportunity as a **Frontend Developer**
 
 - 💻 All of my projects are available at [https://www.davidfrancisco.dev/](https://www.davidfrancisco.dev/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, ReactJs & NextJs**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJs**
 
 - 📫 How to reach me **davidfco.pozo@gmail.com**
 
-- 📄 My [Resume](https://drive.google.com/file/d/1jazW2zJLNZa-Um9KPVL5ZhknaNy7tRAf/view?usp=sharing)
+- 📄 My [Resume]([https://drive.google.com/file/d/1jazW2zJLNZa-Um9KPVL5ZhknaNy7tRAf/view?usp=sharing](https://drive.google.com/file/d/1oenQ4LyrL9d-6XLWrRT-oMaG2cB5AzeF/view?usp=sharing))
 
 
 ## Connect with me:
