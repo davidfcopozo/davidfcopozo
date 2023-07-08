@@ -5,7 +5,7 @@
 
 - 📚 Wanting to learn **Java, Jest, Docker, Kubernetes**
 
-- 🤝 I’m looking for my first tech job oportunity as a **Frontend Developer**
+- 🤝 I’m looking for a tech job opportunity as a **Frontend Developer**
 
 - 💻 All of my projects are available at [https://www.davidfrancisco.dev/](https://www.davidfrancisco.dev)
 
