@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Francisco</h1>
 <h3 align="center">Frontend Developer!</h3>
 
-- 👨‍💻 I’m currently learning **TypeScript, SQL, NodeJS, Express, React Native**
+- 👨‍💻 I’m currently learning **SQL, PHP, React Native**
 
 - 📚 Wanting to learn **Java, Jest, Docker, Kubernetes**
 
