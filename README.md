@@ -7,7 +7,7 @@
 
 - 🤝 I'm looking for a tech job opportunity as a **Frontend Developer**
 
-- 💻 All of my projects are available at [https://www.davidfrancisco.me/](https://davidfrancisco.me/)
+- 💻 All of my projects are available at [https://www.davidfrancisco.me/](https://davidfrancisco.dev/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJs**
 
